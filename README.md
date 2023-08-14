@@ -8,11 +8,11 @@ A web app developed using Javascript and Firebase and deployed as a mobile app. 
 
 This was part of a Javascript course on Scrimba taught by Rafid Hoda. The concepts I learned building this app include:</br>
 
-Creating, initializing, and manipulating data on Firebase real-time database </br>
-Creating database rules </br>
-Importing functions on Javascript </br>
-Code optimization </br>
-Web application manifest </br>
+* Creating, initializing, and manipulating data on Firebase real-time database </br>
+* Creating database rules </br>
+* Importing functions on Javascript </br>
+* Code optimization </br>
+* Web application manifest </br>
 
 Interact with the demo on: https://harriet-shoppinglist.netlify.app/
 
